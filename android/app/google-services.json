@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450401377621",
+    "firebase_url": "https://zerotouchrescuenew-14125-default-rtdb.firebaseio.com",
+    "project_id": "zerotouchrescuenew-14125",
+    "storage_bucket": "zerotouchrescuenew-14125.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450401377621:android:9dc1abd308f38fc53363dc",
+        "android_client_info": {
+          "package_name": "com.example.zerotouchrescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
