@@ -57,7 +57,7 @@ We use the `flutter_dotenv` package to keep API keys secure.
 ## 📲 Demo & Resources
 
 - MVP APK Download: https://drive.google.com/file/d/1k_L42SZbJNnUEUbMhAZseej38KUKlm7S/view?usp=sharing
-- Demo Video: [Add Link Here]
+- Demo Video : https://drive.google.com/file/d/1brqWZf6bXmVsxyd6GczHMp4xNYUqLz-X/view?usp=sharing
 
 ## 👥 Team Ideovex
 
